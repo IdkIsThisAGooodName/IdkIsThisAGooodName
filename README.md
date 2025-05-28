@@ -7,7 +7,7 @@ Currently learning, experimenting, and occasionally causing **galaxies to collid
 
 🛠️ **Projects**  
 🔭 [Galaxy Collision Simulator](https://github.com/IdkIsThisAGooodName/GalaxyCollisionSimulator)  
-Ever wondered what happens when galaxies crash into each other? I did. So I coded it.
+Ever wondered what happens when galaxies crash into each other? I did. So I coded it!
 
 🚧 **More projects coming soon**  
 (assuming I survive my exams and don’t get gravitationally pulled into a black hole of homework)
@@ -20,10 +20,15 @@ Ever wondered what happens when galaxies crash into each other? I did. So I code
 - Physics & Astronomy (yes, I'm that kind of nerd)  
 
 ---
+😶‍🌫️ **Beyond Coding**
+- Tennis Enthusiast 🎾 - keeps me on my toes (and off my desk) 
+- Avid Reader 📚 - always escaping into other worlds (mostly fantasy)
+- Playing Piano 🎹 - crafting melodies as smoothly as i write code (my code almost never works)
+--- 
 
 🎲 **Fun facts**  
 - I like space, code, and sometimes combining both  
-- My code occasionally works on the first try... and that's terrifying  
+- My code occasionally works on the *first try* ... and thats both a miracle a mystery (sometimes terrifying)
 - Always open to cool ideas and collabs
 
 ---

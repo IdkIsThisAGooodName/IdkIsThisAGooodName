@@ -7,7 +7,9 @@ Currently learning, experimenting, and occasionally causing **galaxies to collid
 
 🛠️ **Projects**  
 🔭 [Galaxy Collision Simulator](https://github.com/IdkIsThisAGooodName/GalaxyCollisionSimulator)  
-Ever wondered what happens when galaxies crash into each other? I did. So I coded it!
+Ever wondered what happens when galaxies crash into each other? I did. **So I coded it.** 
+
+(No alien alien civilisations were harmed in the making of this project.)
 
 🚧 **More projects coming soon**  
 (assuming I survive my exams and don’t get gravitationally pulled into a black hole of homework)
